@@ -1,0 +1,42 @@
+C:\Users\islee\documents\visual studio 2013\Projects\Wpf_ge\Wpf_ge\bin\Debug\Wpf_ge.exe.config
+C:\Users\islee\documents\visual studio 2013\Projects\Wpf_ge\Wpf_ge\bin\Debug\Wpf_ge.exe
+C:\Users\islee\documents\visual studio 2013\Projects\Wpf_ge\Wpf_ge\bin\Debug\Wpf_ge.pdb
+C:\Users\islee\documents\visual studio 2013\Projects\Wpf_ge\Wpf_ge\obj\Debug\EditDialog.baml
+C:\Users\islee\documents\visual studio 2013\Projects\Wpf_ge\Wpf_ge\obj\Debug\Templates\Custom.baml
+C:\Users\islee\documents\visual studio 2013\Projects\Wpf_ge\Wpf_ge\obj\Debug\App.baml
+C:\Users\islee\documents\visual studio 2013\Projects\Wpf_ge\Wpf_ge\obj\Debug\EditDialog.g.cs
+C:\Users\islee\documents\visual studio 2013\Projects\Wpf_ge\Wpf_ge\obj\Debug\MainWindow.g.cs
+C:\Users\islee\documents\visual studio 2013\Projects\Wpf_ge\Wpf_ge\obj\Debug\App.g.cs
+C:\Users\islee\documents\visual studio 2013\Projects\Wpf_ge\Wpf_ge\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\islee\documents\visual studio 2013\Projects\Wpf_ge\Wpf_ge\obj\Debug\Wpf_ge_MarkupCompile.cache
+C:\Users\islee\documents\visual studio 2013\Projects\Wpf_ge\Wpf_ge\obj\Debug\Wpf_ge_MarkupCompile.lref
+C:\Users\islee\documents\visual studio 2013\Projects\Wpf_ge\Wpf_ge\obj\Debug\MainWindow.baml
+C:\Users\islee\documents\visual studio 2013\Projects\Wpf_ge\Wpf_ge\obj\Debug\Wpf_ge.g.resources
+C:\Users\islee\documents\visual studio 2013\Projects\Wpf_ge\Wpf_ge\obj\Debug\Wpf_ge.Properties.Resources.resources
+C:\Users\islee\documents\visual studio 2013\Projects\Wpf_ge\Wpf_ge\obj\Debug\Wpf_ge.csproj.GenerateResource.Cache
+C:\Users\islee\documents\visual studio 2013\Projects\Wpf_ge\Wpf_ge\obj\Debug\Wpf_ge.exe
+C:\Users\islee\documents\visual studio 2013\Projects\Wpf_ge\Wpf_ge\obj\Debug\Wpf_ge.pdb
+C:\Users\islee\documents\visual studio 2013\Projects\Wpf_ge\Wpf_ge\obj\Debug\Wpf_ge.csprojResolveAssemblyReference.cache
+C:\Users\islee\documents\visual studio 2013\Projects\Wpf_ge\Wpf_ge\bin\Debug\App.xaml.cs
+C:\Users\islee\documents\visual studio 2013\Projects\Wpf_ge\Wpf_ge\bin\Debug\App.config
+C:\Users\lis12\Desktop\충북대\@@@@종료\3학년 2학기\실험실인턴쉽\Wpf_ge\Wpf_ge\Wpf_ge\bin\Debug\App.xaml.cs
+C:\Users\lis12\Desktop\충북대\@@@@종료\3학년 2학기\실험실인턴쉽\Wpf_ge\Wpf_ge\Wpf_ge\bin\Debug\App.config
+C:\Users\lis12\Desktop\충북대\@@@@종료\3학년 2학기\실험실인턴쉽\Wpf_ge\Wpf_ge\Wpf_ge\bin\Debug\Wpf_ge.exe.config
+C:\Users\lis12\Desktop\충북대\@@@@종료\3학년 2학기\실험실인턴쉽\Wpf_ge\Wpf_ge\Wpf_ge\bin\Debug\Wpf_ge.exe
+C:\Users\lis12\Desktop\충북대\@@@@종료\3학년 2학기\실험실인턴쉽\Wpf_ge\Wpf_ge\Wpf_ge\bin\Debug\Wpf_ge.pdb
+C:\Users\lis12\Desktop\충북대\@@@@종료\3학년 2학기\실험실인턴쉽\Wpf_ge\Wpf_ge\Wpf_ge\obj\Debug\Wpf_ge.csprojResolveAssemblyReference.cache
+C:\Users\lis12\Desktop\충북대\@@@@종료\3학년 2학기\실험실인턴쉽\Wpf_ge\Wpf_ge\Wpf_ge\obj\Debug\EditDialog.baml
+C:\Users\lis12\Desktop\충북대\@@@@종료\3학년 2학기\실험실인턴쉽\Wpf_ge\Wpf_ge\Wpf_ge\obj\Debug\Templates\Custom.baml
+C:\Users\lis12\Desktop\충북대\@@@@종료\3학년 2학기\실험실인턴쉽\Wpf_ge\Wpf_ge\Wpf_ge\obj\Debug\App.baml
+C:\Users\lis12\Desktop\충북대\@@@@종료\3학년 2학기\실험실인턴쉽\Wpf_ge\Wpf_ge\Wpf_ge\obj\Debug\EditDialog.g.cs
+C:\Users\lis12\Desktop\충북대\@@@@종료\3학년 2학기\실험실인턴쉽\Wpf_ge\Wpf_ge\Wpf_ge\obj\Debug\MainWindow.g.cs
+C:\Users\lis12\Desktop\충북대\@@@@종료\3학년 2학기\실험실인턴쉽\Wpf_ge\Wpf_ge\Wpf_ge\obj\Debug\App.g.cs
+C:\Users\lis12\Desktop\충북대\@@@@종료\3학년 2학기\실험실인턴쉽\Wpf_ge\Wpf_ge\Wpf_ge\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lis12\Desktop\충북대\@@@@종료\3학년 2학기\실험실인턴쉽\Wpf_ge\Wpf_ge\Wpf_ge\obj\Debug\Wpf_ge_MarkupCompile.cache
+C:\Users\lis12\Desktop\충북대\@@@@종료\3학년 2학기\실험실인턴쉽\Wpf_ge\Wpf_ge\Wpf_ge\obj\Debug\Wpf_ge_MarkupCompile.lref
+C:\Users\lis12\Desktop\충북대\@@@@종료\3학년 2학기\실험실인턴쉽\Wpf_ge\Wpf_ge\Wpf_ge\obj\Debug\MainWindow.baml
+C:\Users\lis12\Desktop\충북대\@@@@종료\3학년 2학기\실험실인턴쉽\Wpf_ge\Wpf_ge\Wpf_ge\obj\Debug\Wpf_ge.g.resources
+C:\Users\lis12\Desktop\충북대\@@@@종료\3학년 2학기\실험실인턴쉽\Wpf_ge\Wpf_ge\Wpf_ge\obj\Debug\Wpf_ge.Properties.Resources.resources
+C:\Users\lis12\Desktop\충북대\@@@@종료\3학년 2학기\실험실인턴쉽\Wpf_ge\Wpf_ge\Wpf_ge\obj\Debug\Wpf_ge.csproj.GenerateResource.Cache
+C:\Users\lis12\Desktop\충북대\@@@@종료\3학년 2학기\실험실인턴쉽\Wpf_ge\Wpf_ge\Wpf_ge\obj\Debug\Wpf_ge.exe
+C:\Users\lis12\Desktop\충북대\@@@@종료\3학년 2학기\실험실인턴쉽\Wpf_ge\Wpf_ge\Wpf_ge\obj\Debug\Wpf_ge.pdb

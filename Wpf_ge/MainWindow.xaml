@@ -1,0 +1,80 @@
+﻿<Window x:Name="mywindow" x:Class="Wpf_ge.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:local="clr-namespace:Wpf_ge" mc:Ignorable="d"
+        xmlns:node="clr-namespace:Wpf_ge"
+        Title="MainWindow" Width="1533.5" AllowDrop="True" Height="720" Loaded="Window_Loaded">
+    <DockPanel x:Name="panels" LastChildFill="False" Background="#FFE2DEDE" Margin="0,0,-7,-4">
+        <Menu DockPanel.Dock="Top" Background="LightGray" Height="24">            
+            <MenuItem Header="File">
+                <MenuItem Header="New" Click="NewForm"/>
+                <MenuItem Header="Open" Click="openxml"/>
+                <MenuItem Header="Save as..." Click="saveasxml"/>
+                <MenuItem Header="Sava as Image" Click="saveasimagedialog"/>
+                <Separator/>
+                <MenuItem Header="Export to Figaro" Click="ExportToFigaro"/>
+                <Separator/>
+                <MenuItem Header="Exit" Click="ExitWindow"/>
+            </MenuItem>
+            <MenuItem Header="Edit">
+                <MenuItem Header="Direct Mode" IsCheckable="True" IsChecked="True" Click="IsDirectMode"/>
+                <MenuItem Header="Add Node" Click="Add_Node"/>
+                <MenuItem Header="Add Edge" Click="Add_Edge"/>
+            </MenuItem>
+        </Menu>
+        <Canvas x:Name="canvas" AllowDrop="False" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" Width="1588" ScrollViewer.HorizontalScrollBarVisibility="Auto">
+            <Canvas.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="New Node" Click="Add_Node"/>
+                </ContextMenu>
+            </Canvas.ContextMenu>
+            <Canvas.Background>
+                <SolidColorBrush Color="#FFF0F0F0" Opacity="0.1"/>
+            </Canvas.Background>
+            <Path Stroke="Black" StrokeThickness="1">
+                <Path.Data>
+                    <GeometryGroup x:Name="connectors"/>
+                </Path.Data>
+            </Path>
+            <node:Node x:Name="Node1" Label="Node 1" DragDelta="onDragDelta" Canvas.Left="568" Canvas.Top="182" Template="{StaticResource CustomEllipse}" ContextMenuOpening="Node_ContextMenuOpening">
+                <node:Node.ContextMenu>
+                    <ContextMenu>
+                        <MenuItem Header="New Edge" Click="Add_Edge"/>
+                        <MenuItem Header="Edit" Click="Edit_Dialog"/>
+                        <MenuItem Header="Delete" Click="Delete_Node"/>
+                    </ContextMenu>
+                </node:Node.ContextMenu>
+            </node:Node>
+            <node:Node x:Name="Node2" Label="Node 2" DragDelta="onDragDelta" Canvas.Left="805" Canvas.Top="182" Template="{StaticResource CustomEllipse}" ContextMenuOpening="Node_ContextMenuOpening">
+                <node:Node.ContextMenu>
+                    <ContextMenu>
+                        <MenuItem Header="New Edge" Click="Add_Edge"/>
+                        <MenuItem Header="Edit" Click="Edit_Dialog"/>
+                        <MenuItem Header="Delete" Click="Delete_Node"/>
+
+                    </ContextMenu>
+                </node:Node.ContextMenu>
+            </node:Node>
+            <node:Node x:Name="Node3" Label="Node 3" DragDelta="onDragDelta" Canvas.Left="688" Canvas.Top="282" Template="{StaticResource CustomEllipse}" ContextMenuOpening="Node_ContextMenuOpening">
+                <node:Node.ContextMenu>
+                    <ContextMenu>
+                        <MenuItem Header="New Edge" Click="Add_Edge"/>
+                        <MenuItem Header="Edit" Click="Edit_Dialog"/>
+                        <MenuItem Header="Delete" Click="Delete_Node"/>
+
+                    </ContextMenu>
+                </node:Node.ContextMenu>
+            </node:Node>
+            <node:Node x:Name="Node4" Label="Node 4" DragDelta="onDragDelta" Canvas.Left="688" Canvas.Top="414" Template="{StaticResource CustomEllipse}" ContextMenuOpening="Node_ContextMenuOpening">
+                <node:Node.ContextMenu>
+                    <ContextMenu>
+                        <MenuItem Header="New Edge" Click="Add_Edge"/>
+                        <MenuItem Header="Edit" Click="Edit_Dialog"/>
+                        <MenuItem Header="Delete" Click="Delete_Node"/>
+
+                    </ContextMenu>
+                </node:Node.ContextMenu>
+            </node:Node>
+        </Canvas>
+    </DockPanel>
+</Window>

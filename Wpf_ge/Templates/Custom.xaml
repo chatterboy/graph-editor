@@ -1,0 +1,9 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ControlTemplate x:Key="CustomEllipse">
+        <StackPanel>
+            <Image Name="tplImage" Source="/Images/Ellipse.png" Stretch="Uniform" Width="50" Height="50" HorizontalAlignment="Center"/>
+            <TextBlock Name="tplTextBlock" Text="User stage" HorizontalAlignment="Center"/>
+        </StackPanel>
+    </ControlTemplate>
+</ResourceDictionary>
